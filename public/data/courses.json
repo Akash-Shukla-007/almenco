@@ -1,0 +1,183 @@
+[
+    {
+      "id": 1,
+      "name": "Introduction to React Native",
+      "instructor": "John Doe",
+      "description": "Learn the basics of React Native development and build your first mobile app.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "https://via.placeholder.com/150?text=React+Native",
+      "duration": "8 weeks",
+      "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+      "location": "Online",
+      "prerequisites": ["Basic JavaScript knowledge", "Familiarity with React"],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to React Native",
+          "content": "Overview of React Native, setting up your development environment."
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple mobile app using React Native components."
+        }
+      ],
+      "students": [
+        {
+          "id": 101,
+          "name": "Alice Johnson",
+          "email": "alice@example.com"
+        },
+        {
+          "id": 102,
+          "name": "Bob Smith",
+          "email": "bob@example.com"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Advanced JavaScript",
+      "instructor": "Jane Smith",
+      "description": "Deep dive into advanced JavaScript concepts, including ES6 features and asynchronous programming.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "https://via.placeholder.com/150?text=JavaScript",
+      "duration": "6 weeks",
+      "schedule": "Mondays and Wednesdays, 5:00 PM - 7:00 PM",
+      "location": "Online",
+      "prerequisites": ["Basic JavaScript knowledge"],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "ES6 Features",
+          "content": "Introduction to ES6 syntax and features."
+        },
+        {
+          "week": 2,
+          "topic": "Asynchronous JavaScript",
+          "content": "Working with Promises and async/await."
+        }
+      ],
+      "students": [
+        {
+          "id": 103,
+          "name": "Charlie Brown",
+          "email": "charlie@example.com"
+        },
+        {
+          "id": 104,
+          "name": "Diana Prince",
+          "email": "diana@example.com"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Introduction to Python",
+      "instructor": "Robert Lee",
+      "description": "Learn Python programming from scratch, including data structures and basic algorithms.",
+      "enrollmentStatus": "Closed",
+      "thumbnail": "https://via.placeholder.com/150?text=Python",
+      "duration": "10 weeks",
+      "schedule": "Tuesdays and Fridays, 3:00 PM - 5:00 PM",
+      "location": "Online",
+      "prerequisites": ["None"],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Python Basics",
+          "content": "Introduction to Python syntax and basic programming concepts."
+        },
+        {
+          "week": 2,
+          "topic": "Data Structures",
+          "content": "Understanding lists, tuples, and dictionaries in Python."
+        }
+      ],
+      "students": [
+        {
+          "id": 105,
+          "name": "Eva Green",
+          "email": "eva@example.com"
+        },
+        {
+          "id": 106,
+          "name": "Frank Castle",
+          "email": "frank@example.com"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Web Development Bootcamp",
+      "instructor": "Emily Davis",
+      "description": "Comprehensive web development course covering HTML, CSS, JavaScript, and frameworks like React.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "https://via.placeholder.com/150?text=Web+Dev",
+      "duration": "12 weeks",
+      "schedule": "Mondays, Wednesdays, and Fridays, 6:00 PM - 9:00 PM",
+      "location": "Online",
+      "prerequisites": ["Basic HTML and CSS"],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "HTML & CSS",
+          "content": "Building web pages with HTML and styling them with CSS."
+        },
+        {
+          "week": 2,
+          "topic": "JavaScript Basics",
+          "content": "Introduction to JavaScript and DOM manipulation."
+        }
+      ],
+      "students": [
+        {
+          "id": 107,
+          "name": "George Lucas",
+          "email": "george@example.com"
+        },
+        {
+          "id": 108,
+          "name": "Hannah Montana",
+          "email": "hannah@example.com"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Data Science with R",
+      "instructor": "Lucas Wright",
+      "description": "An introduction to data science using R, including data manipulation, visualization, and statistical analysis.",
+      "enrollmentStatus": "In Progress",
+      "thumbnail": "https://via.placeholder.com/150?text=Data+Science",
+      "duration": "8 weeks",
+      "schedule": "Thursdays and Saturdays, 4:00 PM - 7:00 PM",
+      "location": "Online",
+      "prerequisites": ["Basic understanding of statistics"],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to R",
+          "content": "Getting started with R and RStudio."
+        },
+        {
+          "week": 2,
+          "topic": "Data Visualization",
+          "content": "Creating plots and charts using ggplot2."
+        }
+      ],
+      "students": [
+        {
+          "id": 109,
+          "name": "Irene Adler",
+          "email": "irene@example.com"
+        },
+        {
+          "id": 110,
+          "name": "James Bond",
+          "email": "james@example.com"
+        }
+      ]
+    }
+  ]
+  
